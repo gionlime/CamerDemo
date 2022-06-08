@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenglCameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenglCameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.iml" filepath="$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opengldemo/OpenglCameraView.opengldemo.unitTest.iml" />
+    </modules>
+  </component>
+</project>
